@@ -5,8 +5,9 @@
 -
 
 ## Specifications
--
--
+- this project does this
+- also this
+- sometimes this is also needed
 
 ## Conclusion
 -
